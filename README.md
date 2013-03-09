@@ -1,6 +1,6 @@
 deck.leap.js
 ============
-An extension for [deck.js][] that adds the ability to navigate using the Leap Motion interface device.
+An extension for [deck.js][] that adds the ability to navigate slides using the Leap Motion interface device.
 
 Requirements
 ------------
@@ -20,7 +20,7 @@ You are good to go.
 License
 ------------
 
-Copyright (c) 2013 Mike Parsons
+Copyright (c) 2013, Mike Parsons
 
 Licensed under the [MIT license][].
 

@@ -7,7 +7,7 @@ You can play with a demo of the extension [here](http://schnipz.github.com/leap-
 Requirements
 ------------
 
-[deck.js][]
+[deck.js](https://github.com/imakewebthings/deck.js)
 
 Installation
 ------------
